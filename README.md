@@ -41,4 +41,4 @@ Activities/ Classes
 Metric<br>
 `F1 Score`
 
-** You can access via: https://www.kaggle.com/competitions/ai-4-ba-ml-2024-har/overview **
+You can access via: https://www.kaggle.com/competitions/ai-4-ba-ml-2024-har/overview
